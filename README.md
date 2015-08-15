@@ -6,7 +6,7 @@ _The mission of this project is to provide a concrete assist to the Toronto Budg
 
 This is a project organized through [civic tech toronto](http://civictech.ca/). Civic Tech meets every Tuesday to move projects forward, and all who are interested in contributing are welcome.
 
-The current status is that we are reviewing project focus options, to pick one for implementation.
+The current status of the Toronto Budget project is that we are reviewing project focus options, to pick one for implementation.
 
 The current candidates are:
 
