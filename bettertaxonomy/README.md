@@ -1,6 +1,6 @@
 # Better Taxonomy Project
 
-By Henrik Bechmann, July 2015; contents first creaeted February, 2015
+By Henrik Bechmann, July 2015; contents first created February, 2015
 
 I’ve assembled a dataset (with some difficulty) of the City of Toronto Budget Summaries going back to 2003 (I couldn’t quite get back to amalgamation – 1998 – in this round). Here's a [sample](https://drive.google.com/open?id=0B208oCU9D8OuNnlIbVVSdUxoYms). For presentation and analysis, I’ve created a better taxonomy for the detailed line items of the summaries, and using automation (Google App Script) created a fairly large set of time series for the data. Finally I’ve offered a preliminary analysis of the data.
 
