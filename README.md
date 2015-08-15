@@ -10,14 +10,14 @@ The current status of the Toronto Budget project is that we are reviewing projec
 
 The current candidates are:
 
-    1. What can we do for councillors
-    2. Community asset utilization
-    3. program improvements
-    4. participatory budgeting - ward citizens vote on where capital budget goes
-    5. budget taxonomy
-    6. toronto budget process information portal
-    7. front line worker portal as ‘suggestion box’
-    8. bureaucracy (culture) hacks
+1. What can we do for councillors
+2. Community asset utilization
+3. program improvements
+4. participatory budgeting - ward citizens vote on where capital budget goes
+5. budget taxonomy
+6. toronto budget process information portal
+7. front line worker portal as ‘suggestion box’
+8. bureaucracy (culture) hacks
 
 We're applying [impact mapping](http://impactmapping.org/drawing.php) (Why? Who? How? What?) to these, to establish impact and scope of each, for comparison and eventual decision purposes.
 
