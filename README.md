@@ -19,6 +19,6 @@ The current candidates are:
     7. front line worker portal as ‘suggestion box’
     8. bureaucracy (culture) hacks
 
-We're applying impact mapping (lite) to these, to establish impact and scope of each, for comparison and eventual decision purposes.
+We're applying [impact mapping](http://impactmapping.org/drawing.php) (Why? Who? How? What?) to these, to establish impact and scope of each, for comparison and eventual decision purposes.
 
 For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
