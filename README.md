@@ -2,7 +2,7 @@
 
 ## August 15, 2015
 
-_The mission of this project is to provide a concrete assist to the Toronto Budget process which will make it easier for Toronto citizens to contribute._
+_The mission of this project is to provide a concrete assist to the Toronto Budget process which will make it easier for Toronto citizens to contribute. Specifically, provide tools to a) facilitate insight into the Toronto Budget contents, and b) provide ready access to budget process information, to facilitate negotiation between local actors and budget decision-makers_
 
 This is a project organized through [civic tech toronto](http://civictech.ca/). Civic Tech meets every Tuesday to move projects forward, and all who are interested in contributing are welcome.
 
