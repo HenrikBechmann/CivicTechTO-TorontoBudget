@@ -23,4 +23,4 @@ We're applying [impact mapping](http://impactmapping.org/drawing.php) (Why? Who?
 
 General sequence as planned: complete environment scan for budget explainer examples; consolidate our list of options; apply impact mapping on these options; bring in domain experts to help us review these options (possibly in September); select a project; enter a project development phase. Current target is to have something impactful and helpful available for the 2017 budget cycle in the fall of 2016.
 
-For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
+For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki/Wiki-Home). For resource materials browse this repository.
