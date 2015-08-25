@@ -18,6 +18,8 @@ The current candidates are:
 6. toronto budget process information portal
 7. front line worker portal as ‘suggestion box’
 8. bureaucracy (culture) hacks
+9. illuminate citizen's mandate
+10. improve budget support services
 
 We're applying [impact mapping](http://impactmapping.org/drawing.php) (Why? Who? How? What?) to these, to establish impact and scope of each, for comparison and eventual decision purposes.
 
