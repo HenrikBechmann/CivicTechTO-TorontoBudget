@@ -1,5 +1,9 @@
 # CivicTechTO-TorontoBudget
 
+## September 6, 2015
+
+David Dou has created a [treemap](https://public.tableau.com/profile/daviddou82#!/vizhome/CityBudgetToronto/Dashboard1) of the Toronto Budget from 2003 - 2015, based on my ‘better taxonomy’ data. Super cool.
+
 ## August 15, 2015
 
 _The mission of this project is to provide a concrete assist to the Toronto Budget process which will make it easier for Toronto citizens to contribute. Specifically, provide tools to a) facilitate insight into the Toronto Budget contents, and b) provide ready access to annual budget process information, to facilitate negotiation between local actors and budget decision-makers_
