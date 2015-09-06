@@ -19,3 +19,41 @@ So there are lots of avenues available for investigation.
 As mentioned above, the sheets themselves are available on google docs [here](https://docs.google.com/spreadsheets/d/1R5B_HMmDISyCfZcxS34sYY6iReGFbMCF1olzBJ7N9zU/edit?usp=sharing), and if anyone wants the source code for the automated table and chart generation, it's available here: [sourcecodecopyfeb24.gs](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/blob/master/bettertaxonomy/sourcecodecopyfeb24.gs).
 
 The brief background section in the [report](https://drive.google.com/open?id=0B208oCU9D8Ouc0JvVERXVWVsRW8&authuser=0) explains my history and interest in this.
+
+Here's the breakdown of the [spreadsheet](https://docs.google.com/spreadsheets/d/1R5B_HMmDISyCfZcxS34sYY6iReGFbMCF1olzBJ7N9zU/edit#gid=931374146) tabs. Note that these sheets are all created by my automation code. Some of the titles could be improved.
+
+Consolidated Actual: (the one you used for the visualization I think): Nominal (actual) dollars, 2003 to 2015
+
+3 sections: base data, then rolled up to categories, then categories rolled up to domains.
+
+This is the basis for all other time series.
+
+Period Changes: first and last years compared.
+
+3 sections: actual (nominal dollars); constant (inflation adjusted) dollars; common (common size analysis) percents. See the qualifiers in the 'change' columns for selection.
+
+Each section with categories, then rolled up to domains.
+
+Actual Reference Charts: The most recent year only (obviously actual)
+
+categories, rolled up to domains.
+
+Actual Trend Charts: The time series, actual dollars
+
+categories, rolled up to domains
+
+[Actual Trend Charts Transposed: (internal use only)]
+
+Constant Trend Charts: The time series, in constant (inflation adjusted) dollars
+
+categories, rolled up to domains
+
+[Constant Trend Charts Transposed: (internal use only)]
+
+Common Trend Charts: Common size analysis, by year. 
+
+categories, rolled up to domains
+
+[Common Trend Charts Transposed: (internal use only)]
+
+The rest of the tabs are for internal use -- the input data for the automated output (the above tabs).
