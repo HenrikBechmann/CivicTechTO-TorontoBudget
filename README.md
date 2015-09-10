@@ -1,5 +1,46 @@
 # CivicTechTO-TorontoBudget
 
+## September 9, 2015
+
+Currently working on ways of progressing through the strategic planning toward selection of an impactful, realistically scoped project. The discussion centered around consulting a client user group representing experts and users of the budget domain space. Equally important, we discussed ways of progressing that would build consensus and teamwork within the Budget Project Team.
+
+The four dimensions of the strategy space identified are:
+
+A. The application scaffold, being a website portal potentially consisting of four broad areas:
+
+1. citizen’s mandate for budget participation: rights and duties
+2. clear budget information access: clarity, consistency, currency, context, and culture
+3. clear budget process information access
+4. budget supports (like open data, support personnel): this was generally judged to be a low priority
+
+B. The strategy exploration material assembled thus far, containing a ton of useful material from resource references to design ideas
+
+* the github repository https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget
+* the github wiki https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki
+
+C. The potential users, including
+
+* city open data people
+* city finance people
+* civic society groups including betterbudget.ca people
+* frontline city workers
+* councillors and their staff
+* neighbourhood groups
+
+D. The toronto budget project workgroup itself including
+the client user group (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
+the development team, including project lead, developers, testers, and architect
+the open data source team, to provide reliable, consistent, up to date raw budget data inputs
+
+The mandate is to select a project with the help of the client users group that would have impact (constructive change of behaviour on the part of selected users), which at the same time would provide benefit to the city (to support the open data input effort), and which would be realistic to complete with a volunteer development effort in about 9-12 months. This would be the first version of the first module of the scaffold.
+
+The plan currently underway to resolve these dimensions is:
+
+* set up a CivicTech Toronto Budget Project User Group Lead List populated with initial nominated candidates for inclusion in this group.
+* manage and populate this group
+* develop a process structure for leading representatives of the user group to a conclusion as to (perhaps in two sessions – city and community, or perhaps combined, to be determined)
+* clarify options as much as possible in preparation for these meeting (extent to be determined), recognizing that judgement as to impact would be most effective coming from the user groups
+
 ## September 6, 2015
 
 David Dou has created a [treemap](https://public.tableau.com/profile/daviddou82#!/vizhome/CityBudgetToronto/Dashboard1) of the Toronto Budget from 2003 - 2015, based on my ‘better taxonomy’ data. Super cool.
