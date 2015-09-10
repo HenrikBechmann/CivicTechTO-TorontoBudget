@@ -15,8 +15,8 @@ A. The application scaffold, being a website portal potentially consisting of fo
 
 B. The strategy exploration material assembled thus far, containing a ton of useful material from resource references to design ideas
 
-* the github repository https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget
-* the github wiki https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki
+* the [github repository](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget)
+* the [github wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki)
 
 C. The potential users, including
 
@@ -32,7 +32,12 @@ the client user group (representatives of the users from above): to assist with 
 the development team, including project lead, developers, testers, and architect
 the open data source team, to provide reliable, consistent, up to date raw budget data inputs
 
-The mandate is to select a project with the help of the client users group that would have impact (constructive change of behaviour on the part of selected users), which at the same time would provide benefit to the city (to support the open data input effort), and which would be realistic to complete with a volunteer development effort in about 9-12 months. This would be the first version of the first module of the scaffold.
+The mandate is to select a project with the help of the client users group that would 
+* have impact (constructive change of behaviour on the part of selected users)
+* at the same time would provide benefit to the city (to support the open data input effort)
+* be realistic to complete with a volunteer development effort in about 9-12 months. 
+ 
+This would be the first version of the first module of the scaffold.
 
 The plan currently underway to resolve these dimensions is:
 
