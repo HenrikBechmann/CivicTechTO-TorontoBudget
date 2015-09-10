@@ -28,9 +28,9 @@ C. The potential users, including
 * neighbourhood groups
 
 D. The toronto budget project workgroup itself including
-the client user group (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
-the development team, including project lead, developers, testers, and architect
-the open data source team, to provide reliable, consistent, up to date raw budget data inputs
+* the client user group (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
+* the development team, including project lead, developers, testers, and architect
+* the open data source team, to provide reliable, consistent, up to date raw budget data inputs
 
 The mandate is to select a project with the help of the client users group that would 
 * have impact (constructive change of behaviour on the part of selected users)
