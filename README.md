@@ -44,7 +44,7 @@ The plan currently underway to resolve these dimensions is:
 
 * set up a CivicTech Toronto Budget Project User Group Lead List populated with initial nominated candidates for inclusion in this group.
 * manage and populate this group
-* develop a process structure for leading representatives of the user group to a conclusion as to (perhaps in two sessions – city and community, or perhaps combined, to be determined)
+* develop a process structure for leading representatives of the user group to a conclusion as to project selection (perhaps in two sessions – city and community, or perhaps combined, to be determined)
 * clarify options as much as possible in preparation for these meeting (extent to be determined), recognizing that judgement as to impact would be most effective coming from the user groups
 
 ## September 6, 2015
