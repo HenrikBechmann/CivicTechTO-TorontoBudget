@@ -34,8 +34,8 @@ the open data source team, to provide reliable, consistent, up to date raw budge
 
 The mandate is to select a project with the help of the client users group that would 
 * have impact (constructive change of behaviour on the part of selected users)
-* at the same time would provide benefit to the city (to support the open data input effort)
-* be realistic to complete with a volunteer development effort in about 9-12 months. 
+* at the same time provide benefit to the city (to support the open data input effort)
+* be realistic to complete with a volunteer development effort in about 9-12 months (perhaps 40-80 person-days of development effort). 
  
 This would be the first version of the first module of the scaffold.
 
