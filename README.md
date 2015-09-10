@@ -26,6 +26,7 @@ C. The potential users, including
 * frontline city workers
 * councillors and their staff
 * neighbourhood groups
+* media people
 
 D. The toronto budget project workgroup itself including
 * the client user group (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
