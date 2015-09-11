@@ -1,5 +1,7 @@
 # CivicTechTO-TorontoBudget
 
+For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
+
 ## September 9, 2015
 
 Currently working on ways of progressing through the strategic planning toward selection of an impactful, realistically scoped project. The discussion centered around consulting a client user team representing experts and users of the budget domain space. Equally important, we discussed ways of progressing that would build consensus and teamwork within the Budget Project Team.
@@ -75,5 +77,3 @@ The current candidates are:
 We're applying [impact mapping](http://impactmapping.org/drawing.php) (Why? Who? How? What?) to these, to establish impact and scope of each, for comparison and eventual decision purposes.
 
 General sequence as planned: complete environment scan for budget explainer examples; consolidate our list of options; apply impact mapping on these options; bring in domain experts to help us review these options (possibly in September); select a project; enter a project development phase. Current target is to have something impactful and helpful available for the 2017 budget cycle in the fall of 2016.
-
-For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
