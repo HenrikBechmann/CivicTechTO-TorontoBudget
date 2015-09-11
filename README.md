@@ -2,7 +2,7 @@
 
 ## September 9, 2015
 
-Currently working on ways of progressing through the strategic planning toward selection of an impactful, realistically scoped project. The discussion centered around consulting a client user group representing experts and users of the budget domain space. Equally important, we discussed ways of progressing that would build consensus and teamwork within the Budget Project Team.
+Currently working on ways of progressing through the strategic planning toward selection of an impactful, realistically scoped project. The discussion centered around consulting a client user team representing experts and users of the budget domain space. Equally important, we discussed ways of progressing that would build consensus and teamwork within the Budget Project Team.
 
 The four dimensions of the strategy space identified are:
 
@@ -29,7 +29,7 @@ C. The potential users, including
 * media people
 
 D. The toronto budget project workgroup itself including
-* the client user group (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
+* the client user team (representatives of the users from above): to assist with strategic planning, and subsequently user acceptance testing, and ongoing feedback to the development team
 * the development team, including project lead, developers, testers, and architect
 * the open data source team, to provide reliable, consistent, up to date raw budget data inputs
 
@@ -42,7 +42,7 @@ This would be the first version of the first module of the scaffold.
 
 The plan currently underway to resolve these dimensions is:
 
-* set up a CivicTech Toronto Budget Project User Group Lead List populated with initial nominated candidates for inclusion in this group.
+* set up a CivicTech Toronto Budget Project User Team Lead List populated with initial nominated candidates for inclusion in this group.
 * manage and populate this group
 * develop a process structure for leading representatives of the user group to a conclusion as to project selection (perhaps in two sessions – city and community, or perhaps combined, to be determined)
 * clarify options as much as possible in preparation for these meeting (extent to be determined), recognizing that judgement as to impact would be most effective coming from the user groups
