@@ -2,6 +2,8 @@
 
 For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
 
+For latest product decision matrix see [google spreadsheet](https://docs.google.com/spreadsheets/d/1H8Jk770V8UsfbhaySU-c1yl1DKrPnKW45awjuH5RA18/edit?usp=sharing)
+
 ## September 9, 2015
 
 Currently working on ways of progressing through the strategic planning toward selection of an impactful, realistically scoped project. The discussion centered around consulting a client user team representing experts and users of the budget domain space. Equally important, we discussed ways of progressing that would build consensus and teamwork within the Budget Project Team.
