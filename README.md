@@ -2,6 +2,8 @@
 
 For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
 
+## October 4, 2015
+
 For latest product decision matrix see [google spreadsheet](https://docs.google.com/spreadsheets/d/1H8Jk770V8UsfbhaySU-c1yl1DKrPnKW45awjuH5RA18/edit?usp=sharing). For latest Product Strategy options, see [here](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki/Strategic-Product-Proposal).
 
 ## September 17, 2015
