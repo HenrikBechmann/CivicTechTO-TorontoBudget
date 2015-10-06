@@ -8,7 +8,7 @@ For latest product decision matrix see [google spreadsheet](https://docs.google.
 
 New mandate statement:
 
-*To support informed policy and priority debate about the Toronto Budget*
+*To support informed policy debate about the Toronto budget*
 
 ## September 9, 2015
 
