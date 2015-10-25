@@ -1,6 +1,6 @@
 # CivicTechTO-TorontoBudget
 
-For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository.
+For planning details see the [wiki](https://github.com/HenrikBechmann/CivicTechTO-TorontoBudget/wiki). For resource materials browse this repository. For additional information, see the [Google Drive folder](https://drive.google.com/folderview?id=0B208oCU9D8OuSms5bEZxcnRLZzA&usp=sharing)
 
 ## October 23, 2015
 
