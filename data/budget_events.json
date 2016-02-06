@@ -1,0 +1,492 @@
+[
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "FPD Analyst Meetings with Programs to identify and resolve issues",
+    "date": "5/29/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "FPD Analyst Meetings with Programs to identify and resolve issues",
+    "date": "5/19/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "FPD Analyst Meetings with Programs to identify and resolve issues",
+    "date": "5/19/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Operating Budget (Pre-Submission Shared Stage)",
+    "date": "6/5/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Operating Budget (Pre-Submission Shared Stage)",
+    "date": "6/5/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "All",
+    "budget_event": "Preliminary Budget Submission Deadline",
+    "date": "6/15/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Standing Committee Review of Service Levels",
+    "date": "6/15/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Standing Committee Review of Service Levels",
+    "date": "6/15/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "All",
+    "budget_event": "Executive Director, Financial Planning Division Review with Programs and Agencies (Round 1)",
+    "date": "7/2/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "All",
+    "budget_event": "Final Budget Submission Deadline",
+    "date": "8/28/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "All",
+    "budget_event": "Executive Director, Financial Planning Division Review with Programs and Agencies (Round 2)",
+    "date": "9/9/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "All",
+    "budget_event": "BC members Informal Review",
+    "date": "9/15/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "CM/CFO Meeting with Programs",
+    "date": "9/16/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "CM/CFO Meeting with Programs",
+    "date": "9/17/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "CM/CFO Meeting with Programs",
+    "date": "9/17/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "CM/CFO/DCM Final Meetings",
+    "date": "10/6/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "CM/CFO/DCM Final Meetings",
+    "date": "10/26/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "CM/CFO/DCM Final Meetings",
+    "date": "10/26/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Budget Committee Budget Launch",
+    "date": "11/6/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Budget Committee Budget Launch",
+    "date": "12/15/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Budget Committee Budget Launch",
+    "date": "12/15/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Budget Briefings (Budget Committee)",
+    "date": "11/13/2015",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Budget Briefings (Budget Committee)",
+    "date": "1/5/2016",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Budget Briefings (Budget Committee)",
+    "date": "1/5/2016",
+    "time": "nil",
+    "location": "nil",
+    "public": "No",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "11/13/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/12/2016",
+    "time": "9:30am and 6pm",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/13/2016",
+    "time": "3pm and 6pm",
+    "location": "Scarborough Civic Centre, Council Chamber 150 Borough Dr",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/14/2016",
+    "time": "3pm and 6pm",
+    "location": "East York Civic Centre, Council Chamber, 850 Coxwell Ave",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/12/2016",
+    "time": "3pm and 6pm",
+    "location": "Etobicoke Civic Centre, Council Chamber, 399 The West Mall",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/13/2016",
+    "time": "3pm and 6pm",
+    "location": "North York Civic Centre, Council Chamber, 5100 Yonge Str",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/14/2016",
+    "time": "3pm and 6pm",
+    "location": "York Civic Centre, Council Chamber, 2700 Eglinton Ave W",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/12/2016",
+    "time": "9:30am and 6pm",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/13/2016",
+    "time": "3pm and 6pm",
+    "location": "Scarborough Civic Centre, Council Chamber, 150 Borough Dr",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/14/2016",
+    "time": "3pm and 6pm",
+    "location": "East York Civic Centre, Council Chamber, 850 Coxwell Ave",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/12/2016",
+    "time": "3pm and 6pm",
+    "location": "Etobicoke Civic Centre, Council Chamber, 399 The West Mall",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/13/2016",
+    "time": "3pm and 6pm",
+    "location": "North York Civic Centre, Council Chamber, 5100 Yonge Str",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Public Presentations (Budget Committee)",
+    "date": "1/14/2016",
+    "time": "3pm and 6pm",
+    "location": "York Civic Centre, Council Chamber, 2700 Eglinton Ave W",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Budget Committee Wrap-up",
+    "date": "1/18/2016",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Budget Committee Wrap-up",
+    "date": "1/18/2016",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Budget Committee Final Wrap-up",
+    "date": "11/24/2015",
+    "time": "1:30 PM",
+    "location": "Committee Room 2, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Budget Committee Final Wrap-up",
+    "date": "1/26/2016",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Budget Committee Final Wrap-up",
+    "date": "1/26/2016",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Special Executive Committee",
+    "date": "12/1/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Special Executive Committee",
+    "date": "2/9/2016",
+    "time": "TBD",
+    "location": "TBD",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Special Executive Committee",
+    "date": "2/9/2016",
+    "time": "TBD",
+    "location": "TBD",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "Special City Council",
+    "date": "12/9/2015",
+    "time": "9:30 AM",
+    "location": "Committee Room 1, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Operating",
+    "budget_event": "Special City Council",
+    "date": "2/17/2016",
+    "time": "TBD",
+    "location": "TBD",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Capital",
+    "budget_event": "Special City Council",
+    "date": "2/17/2016",
+    "time": "TBD",
+    "location": "TBD",
+    "public": "Yes",
+    "notes": "nil"
+  },
+  {
+    "category": "City",
+    "budget_type": "Rate",
+    "budget_event": "User Fee Town Hall Meeting",
+    "date": "1/11/2016",
+    "time": "6:00 PM",
+    "location": "Committee Room 2, City Hall, 100 Queen Street West",
+    "public": "Yes",
+    "notes": "Information session on the user fee policy and any proposed fee increases above inflation. No deputations."
+  }
+]
